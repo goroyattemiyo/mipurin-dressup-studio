@@ -1,0 +1,19 @@
+{
+  "character": "Mipurin",
+  "version": "0.1.0",
+  "canvas": {"width": 2048, "height": 2048, "background": "transparent"},
+  "parts": [
+    "base",
+    "hair_back",
+    "hair_front",
+    "eyes_open",
+    "eyes_closed",
+    "lip_sync_close",
+    "lip_sync_open",
+    "wing_left",
+    "wing_right",
+    "outfit_default",
+    "accessory_head_none",
+    "accessory_body_none"
+  ]
+}
