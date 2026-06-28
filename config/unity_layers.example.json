@@ -1,0 +1,31 @@
+{
+  "sortingLayers": [
+    {"name": "Background", "order": -100},
+    {"name": "MipurinParts", "order": 0},
+    {"name": "EffectFront", "order": 100},
+    {"name": "UI", "order": 1000}
+  ],
+  "parts": {
+    "HairBack": 0,
+    "WingLeft": 5,
+    "WingRight": 5,
+    "Base": 10,
+    "Outfit": 20,
+    "Face": 30,
+    "Eyes": 40,
+    "LipSync": 41,
+    "Blush": 42,
+    "HairFront": 50,
+    "AccessoryBody": 60,
+    "AccessoryHead": 70,
+    "EffectFront": 100
+  },
+  "animationDefaults": {
+    "floatAmplitude": 0.05,
+    "floatSpeed": 1.2,
+    "wingAmplitudeDegrees": 6.0,
+    "wingSpeed": 2.5,
+    "blinkMinSeconds": 2.5,
+    "blinkMaxSeconds": 5.5
+  }
+}
