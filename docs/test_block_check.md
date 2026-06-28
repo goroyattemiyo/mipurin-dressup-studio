@@ -1,3 +1,0 @@
-mouth_close
-mouth_small
-body_base
